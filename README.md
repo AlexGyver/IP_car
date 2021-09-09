@@ -37,14 +37,14 @@
 <a id="chapter-3"></a>
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-- Arduino NANO http://ali.ski/8ac008  http://ali.ski/O_zpp
-- SANNCE камера http://ali.ski/psTbm
-- Платформа с моторами и колёсами http://ali.ski/nQ-b24
-- Драйвер моторов http://ali.ski/ZYFMO
+- Arduino NANO https://ali.ski/kILdB9  https://ali.ski/H0iTcj
+- SANNCE камера https://ali.ski/ZqMduo
+- Платформа с моторами и колёсами https://ali.ski/jvZIKw
+- Драйвер моторов https://ali.ski/mRAs_f
 Дополнительно:  
-- Отсек под 18650 http://ali.ski/q1vGy
-- Акум 18650 http://ali.ski/F7rdhq  http://ali.ski/IbpFi
-- Модуль 5V с зарядкой http://ali.ski/k5lYY
+- Отсек под 18650 https://ali.ski/YwO9Rv
+- Акум 18650 https://ali.ski/fpsSQ  https://ali.ski/4nbwDd
+- Модуль 5V с зарядкой https://ali.ski/2RR7uD
 
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
